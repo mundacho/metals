@@ -36,7 +36,7 @@ functionality.
     <td align="center">✅</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
-    <td align="center">Requires browser</td>
+    <td align="center">✅</td>
   </tr>
   <tr>
     <td>Diagnostics</td>
@@ -108,7 +108,7 @@ functionality.
     <td align="center">✅</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
-    <td align="center"></td>
+    <td align="center">✅</td>
   </tr>
   <tr>
     <td>Formatting</td>
@@ -144,7 +144,7 @@ functionality.
     <td align="center">Status bar</td>
     <td align="center"></td>
     <td align="center">Status bar</td>
-    <td align="center">Status bar, Slow task</td>
+    <td align="center">✅</td>
   </tr>
 </tbody>
 </table>
